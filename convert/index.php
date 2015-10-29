@@ -506,7 +506,7 @@ EOF;
 		<p>Tabela "mybb_debuglogs" znajdująca się w bazie danych forum zawiera informacje debugowania na temat przeprowadzonych działań. W przypadku problemów zwróć się o pomoc na <a href="http://community.mybb.com/">forum wsparcia MyBB</a>.</p>
 	</div>
 	<div id="footer">
-		<div class="float_right"><a href="http://www.mybboard.net">MyBB</a> © 2002-{$year} <a href="http://www.mybboard.net">MyBB Group</a>, Polskie tłumaczenie © 2010-{$year} <a href="http://www.mybboard.pl">Polski Support MyBB</a></div>
+		<div class="float_right"><a href="http://www.mybboard.net">MyBB</a> © 2002-{$year} <a href="http://www.mybboard.net">MyBB Group</a>, Polskie tłumaczenie © 2007-{$year} <a href="http://www.mybboard.pl">Polski Support MyBB</a></div>
 		<div>Raport wygenerowano {$generation_time}</div>
 	</div>
 </div>
